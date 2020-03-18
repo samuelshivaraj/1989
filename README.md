@@ -39,7 +39,7 @@ Result oriented professional with an experience of 8 plus years in Technical Wri
 * Improvised product with usability suggestions from a customer's perspective.
 #### Tools Expertise:
 * Authoring Tools: O365, OxygenXML, MS Office, SnagIt, MS Visio, Markdown, and Swagger
-* Version Controls: Astoria CMS and SharePoin
+* Version Controls: Astoria CMS and SharePoint
 ## Lionbridge Technologies Pvt Ltd
 ### Senior Technical Author
 *From June 2011 - July 2016*
