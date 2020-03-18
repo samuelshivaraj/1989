@@ -1,7 +1,7 @@
 # Areas of Interest:
 Technical Writing, Business Analysis, and Project Management
 # Profile Summary:
-8 plus years in Technical Writing and Business Analysis. I have experience in working with variety of technical documentation projects and proficient in latest tools and standards. I can handle the projects from planning to delivery and have ability to work individually and can be part of a team.
+Result oriented professional with an experience of 8 plus years in Technical Writing and Business Analysis. I have experience in working with variety of technical documentation projects and proficient in latest tools and standards. I can handle the projects from planning to delivery and have ability to work individually and can be part of a team.
 # Experience:
 ## CDA Technologies India Pvt Ltd
 ### Senior Technical Author
